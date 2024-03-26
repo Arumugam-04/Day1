@@ -1,4 +1,3 @@
-
 Difference between document and window object :
     Document:
     #- it repressnts any HTML document and web page that is loaded in the broswer.
